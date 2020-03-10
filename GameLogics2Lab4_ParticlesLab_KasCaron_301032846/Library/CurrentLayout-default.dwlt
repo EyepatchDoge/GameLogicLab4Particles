@@ -116,7 +116,7 @@ MonoBehaviour:
   m_MinSize: {x: 709, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 186
+  controlID: 6789
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 421}
   m_MaxSize: {x: 4001, y: 8021}
   vertical: 1
-  controlID: 249
+  controlID: 6790
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -218,7 +218,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 274
+  controlID: 6677
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -424,9 +424,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.0069862604, y: 2.353269, z: -0.92457056}
+    m_Target: {x: -4.4244614, y: 2.112851, z: -1.2430327}
     speed: 2
-    m_Value: {x: 0.0069862604, y: 2.353269, z: -0.92457056}
+    m_Value: {x: -4.4244614, y: 2.112851, z: -1.2430327}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -472,13 +472,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.031658616, y: -0.9596133, z: 0.120393306, w: 0.25230697}
+    m_Target: {x: 0.022114085, y: -0.9630775, z: 0.08342131, w: 0.25506994}
     speed: 2
-    m_Value: {x: -0.031658404, y: 0.95960695, z: -0.1203925, w: -0.25230527}
+    m_Value: {x: -0.022113783, y: 0.9630644, z: -0.08342017, w: -0.25506648}
   m_Size:
-    m_Target: 14.860296
+    m_Target: 12.066698
     speed: 2
-    m_Value: 14.860296
+    m_Value: 12.066698
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -532,9 +532,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: f8f0ffff
+      m_SelectedIDs: 30c5ffff
+      m_LastClickedID: -15056
+      m_ExpandedIDs: 14ceffff26faffff8cfaffff72fbffffc83900001e3c0000323c00003e3c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -623,20 +623,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Prefab Particles Systems
   m_ViewMode: 1
   m_StartGridSize: 44
   m_LastFolders:
-  - Assets
+  - Assets/Prefab Particles Systems
   m_LastFoldersGridSize: 44
   m_LastProjectPath: D:\GitHub\GameLogicLab4Particles\GameLogics2Lab4_ParticlesLab_KasCaron_301032846
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 3a380000
-    m_LastClickedID: 14394
-    m_ExpandedIDs: 000000003a38000000ca9a3b
+    m_SelectedIDs: 82360000
+    m_LastClickedID: 13954
+    m_ExpandedIDs: 000000007836000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -664,7 +664,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000003a38000000ca9a3b
+    m_ExpandedIDs: 000000007836000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
